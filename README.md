@@ -1,1 +1,2 @@
 # E-Commerce-website
+An intuitive e-commerce platform that enables seamless item management and sales. Easily add products to the database and manage transactions to sell directly from the inventory. Simplify your business operations with streamlined database integration and efficient sales functionality.
